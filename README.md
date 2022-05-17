@@ -42,8 +42,13 @@ Within coming years there will be a deficit of a workforce vs retirees.
 
 ## Excel And SQL snippets
 
- ### Q1 
+ ### Q1 Decline of Children In Denmark (Excel)
  
- ![alt text](Decline Children.jpg)
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/105588939/168840632-4446845b-e27a-4221-a129-c0a97021dd28.png">
+
+
+ ### Q2 Families (SQL)
+ 
+ 
 
 
