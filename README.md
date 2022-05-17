@@ -53,16 +53,16 @@ Within coming years there will be a deficit of a workforce vs retirees.
 
  ### Q3 Number Of Births And Deaths (SQL)
 
-[SQL Query 2 (https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query%202%20births%20and%20deaths.sql)
+[SQL Query2](https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query%202%20births%20and%20deaths.sql)
 
  ### Q4 Births Per Death (Excel)
 <img width="276" alt="image" src="https://user-images.githubusercontent.com/105588939/168843561-bc7b5a50-767b-4bb5-a7d0-1045c486be1e.png">
 
  ### Q5, Q6, Q7 Projections (SQL)
  
- [SQL Query 3] (https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query%203.sql)
+ [SQL Query 3](https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query%203.sql)
  
- [SQL Query 4) (https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query4.sql)
+ [SQL Query 4](https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query4.sql)
 
 
 
