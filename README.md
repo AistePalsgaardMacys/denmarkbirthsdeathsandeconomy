@@ -63,6 +63,31 @@ Within coming years there will be a deficit of a workforce vs retirees.
  [SQL Query 3](https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query%203.sql)
  
  [SQL Query 4](https://github.com/AistePalsgaardMacys/denmarkbirthsdeathsandeconomy/blob/00a5d7e9581aab3aabee358a1d49954efdb084b5/Query4.sql)
+ 
+ ## Answers to Hypothesis & Visualization
+ 
+### Hypothesis 1: People have smaller families in 2021 than any other year in a 5-year period.
+
+![Size Of Families In Denmark](https://user-images.githubusercontent.com/105588939/168847062-68f7663a-8a00-4f73-a622-2d6767ee3adc.png)
+
+[Interactive Visualization](https://public.tableau.com/views/FamiliesInDenmark/SizeOfFamiliesInDenmark?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+People do not choose to have smaller families than in previous years. Having 2 kids was always preferred, families with other numbers of kids were always not as common, however there is a constant decrease in general number of families, thus there is a general decrease of children in Denmark.
+
+### Hypothesis 2: Due to smaller number of births, there are less people to replace the deaths in the society.
+
+![Dashboard 1 (1)](https://user-images.githubusercontent.com/105588939/168847537-2a141a15-4d9b-45be-8103-c86b90d699fb.png)
+
+[Interactive Visualization](https://public.tableau.com/views/ForecastAndCurrentBirthsRetireesWorkforce/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+In 2021 there were approximately 1.11 births per one death, which means that each dead person is replaced by a new birth, however the births might not be the issue, the number of kids is projected to not cover number of retirees soon.
+
+### Hypothesis 3: Within coming years there will be a deficit of a workforce vs retirees.
+
+It is forecasted that number of retirees will grow, while workforce will decline, that might not be a problem currently, but it can change in a long-run, therefore this hypothesis should be monitored with upcoming forecasts and have some possible solutions available. ( Reference table above)
+
+
+
 
 
 
