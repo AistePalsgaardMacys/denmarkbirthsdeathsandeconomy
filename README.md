@@ -22,4 +22,28 @@ Within coming years there will be a deficit of a workforce vs retirees.
 | Visualize data in Tableau dashboards for an interactive use. | Finished by week 5 of the project. | Upload Microsoft Excel files to Tableau and create visualizations for presentation purposes. |
 | Get feedback on visualizations and extracted data and apply adjustments. | Finished by week 7 of the project. | Getting feedback from people around me and seeing how visualizations can be simplified or made more accurate to the data story. Adjust and add more analysis if needed. |
 
-## Data Used:
+## Data Used
+1. Births In Denmark (https://www.dst.dk/en/Statistik/emner/borgere/befolkning/foedsler)
+2. Deaths In Denmark (https://www.dst.dk/en/Statistik/emner/borgere/befolkning/doedsfald)
+3. Population Projection & Projections By Age (https://www.dst.dk/en/Statistik/emner/borgere/befolkning/befolkningsfremskrivning)
+4. Number Of Children Per Family (https://www.dst.dk/en/Statistik/emner/borgere/husstande-familier-og-boern/boern)
+
+## Data Extracted And Analysis Questions
+
+| Question | Why Are We Looking Into It | Short Answer |
+| -------------- | -------------- | -------------- |
+| 1. What was the number of children in Denmark in the past 5 years and how does the trend look?  | If we find that families have less children, we can look deeper into it and see what is the reason for it. | Number of children has declined with each year.|
+| 2. Do people choose to have smaller families in 2021 comparing to previous 4 years? | This will help to distinguish the reason for decline. | No, it is due to lower number of families being created. |
+| 3. Did number of deaths in Denmark decline or rise within last 5 years? | If there is a decline with each year we might reach the point where births don't cover deaths in society meaning that society is becoming smaller, thus affecting economy in the long-run | Deaths have increased, but there is no trend as it spikes and goes down again. |
+| 4. How many births are there per one death in 2021? | Helps to understand the difference between deaths and births. | 1.11 births per one death. |
+| 5. What is the trend when we look at predicted population for working age individuals (15-69)? | If workforce is prognosed to go down it indicates that more people go to be retirees than those entering the workforce. | Workforce is projected to decline. |
+| 6. What is number of projected retirees in the population aged 69 - 105 plus and does it decline or rise? | Helps us to understand weather it is in fact bigger number of retirees that causes workforce to shrink. | Number of retirees is projected to grow. |
+| 7. What is number of projected kids population (0-14) and is it projected to increase or decline? | Helps to understand whether new enterees into workforce will be shrinking in the upcoming years. | Number of children is projected to shrink, even though there is a projection of a small peak in 2026. |
+
+## Excel And SQL snippets
+
+ ### Q1 
+ 
+ ![alt text](Decline Children.jpg)
+
+
