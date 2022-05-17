@@ -76,7 +76,7 @@ People do not choose to have smaller families than in previous years. Having 2 k
 
 ### Hypothesis 2: Due to smaller number of births, there are less people to replace the deaths in the society.
 
-![Dashboard 1 (1)](https://user-images.githubusercontent.com/105588939/168847537-2a141a15-4d9b-45be-8103-c86b90d699fb.png)
+![Dashboard 1 (2)](https://user-images.githubusercontent.com/105588939/168888942-8015fdac-f5ce-4f6c-9455-16c5e1c40517.png)
 
 [Interactive Visualization](https://public.tableau.com/views/ForecastAndCurrentBirthsRetireesWorkforce/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
