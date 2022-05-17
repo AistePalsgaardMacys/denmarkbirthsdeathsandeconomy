@@ -84,7 +84,12 @@ In 2021 there were approximately 1.11 births per one death, which means that eac
 
 ### Hypothesis 3: Within coming years there will be a deficit of a workforce vs retirees.
 
-It is forecasted that number of retirees will grow, while workforce will decline, that might not be a problem currently, but it can change in a long-run, therefore this hypothesis should be monitored with upcoming forecasts and have some possible solutions available. ( Reference table above)
+It is forecasted that number of retirees will grow, while workforce will decline, that might not be a problem currently, but it can change in a long-run, therefore this hypothesis should be monitored with upcoming forecasts and have some possible solutions available (Reference table above).
+
+## Recommendations
+
+1. Since the problem lies not in smaller families, but in lack of first-time families, Denmark should encourage people to have families sooner rather than later. That can be done in offering longer maternity leave, financial aid for first-time parents and other benefits such as boligstøtte and secure kidergarden placement.
+2. In terms of workforce Denmark should strive to invite foreigners with skillsets that Danish workforce lacks, such as farmers, carpenters, highly-skilled professionals. 
 
 
 
